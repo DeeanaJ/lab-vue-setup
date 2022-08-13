@@ -7,6 +7,7 @@
 
 <script>
 // @ is an alias to /src
+
 import ToDoItem from '@/components/ToDoItem.vue';
 
 export default {
